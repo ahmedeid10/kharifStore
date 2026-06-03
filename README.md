@@ -1,70 +1,127 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+#  Kharif Store
 
-In the project directory, you can run:
+Developed a responsive e-commerce web application using React.js with product browsing, category filtering, search functionality, shopping cart management, favorites system, order tracking, authentication, and contact form integration.
 
-### `npm start`
+##  Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ https://kharif-store.netlify.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+##  Features
+### User Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Browse products
+- Product details page
+- Add to cart
+- Favorites system
+- Search products
+- Order management
+- Blog page
+- Blog details page
+- Contact page
+- Responsive design
+- Protected pages with authentication
 
-### `npm run build`
+### Authentication
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Sign Up / Sign In
+- Clerk Authentication
+- Protected Routes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Orders
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Place orders
+- Select payment method
+- Order history
+- Latest order badge
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##  Technologies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React.js
+- React Router DOM
+- Context API
+- Clerk
+- EmailJS
+- React Icons
+- Axios
+-Framer-motion
+- Swiper.js
+- CSS3
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
+## Home Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Home](./screenshots/home.png)
 
-## Learn More
+## About
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![About](./screenshots/about.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Product Details
 
-### Code Splitting
+![Details](./screenshots/detalis.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Cart
 
-### Analyzing the Bundle Size
+![Cart](./screenshots/cart.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Orders
 
-### Making a Progressive Web App
+![Orders](./screenshots/orders.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contact
 
-### Advanced Configuration
+![Contact](./screenshots/contact.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Blog
 
-### Deployment
+![Blog](./screenshots/blog.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## BlogDetails
 
-### `npm run build` fails to minify
+![BlogDetails](./screenshots/blogDet.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Fav
+
+![Fav](./screenshots/fav.png)
+
+
+##  Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ahmedeid10/kharifStore.git
+```
+
+Go to project folder
+
+```bash
+cd kharifStore
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run project
+
+```bash
+npm start
+```
+
+---
+
+
+##  Developed By
+Ahmed Eid
+
+GitHub:
+https://github.com/ahmedeid10
